@@ -1,0 +1,6 @@
+include_directories(${CMAKE_CURRENT_SOURCE_DIR})
+subdirs(ghgl)
+subdirs(spiral)
+subdirs(pzl)
+subdirs(lines)
+subdirs(grid)

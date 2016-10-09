@@ -27,3 +27,14 @@
 *.exe
 *.out
 *.app
+
+# cmake
+CMakeFiles/
+cmake_install.cmake
+/build
+Makefile
+/*.kdevelop*
+/*.kdevses*
+/tags
+*~
+
